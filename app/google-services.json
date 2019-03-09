@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "877193289055",
+    "firebase_url": "https://fir-examples-6b3d7.firebaseio.com",
+    "project_id": "fir-examples-6b3d7",
+    "storage_bucket": "fir-examples-6b3d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877193289055:android:4c0bd606dc92a170",
+        "android_client_info": {
+          "package_name": "edu.monmouth.jzemartis.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877193289055-6vgi3ldi08mvda82pu7anlkpvmunsfsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.monmouth.jzemartis.firebaseauth",
+            "certificate_hash": "2407e2140645b6789ee66aa955c0db958471f118"
+          }
+        },
+        {
+          "client_id": "877193289055-a3bfnmg8q2uk97irk7kjounulhelgn2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvOTT66c6eH5RF9ZFuD5QGLDV7FFOJoxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877193289055-a3bfnmg8q2uk97irk7kjounulhelgn2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877193289055:android:743315df958a8191",
+        "android_client_info": {
+          "package_name": "edu.monmouth.jzemartis.firebaseauthmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877193289055-52mvn6gbjqnk4rpu69ois817eh9pn256.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.monmouth.jzemartis.firebaseauthmenu",
+            "certificate_hash": "2407e2140645b6789ee66aa955c0db958471f118"
+          }
+        },
+        {
+          "client_id": "877193289055-a3bfnmg8q2uk97irk7kjounulhelgn2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvOTT66c6eH5RF9ZFuD5QGLDV7FFOJoxo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877193289055-a3bfnmg8q2uk97irk7kjounulhelgn2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
